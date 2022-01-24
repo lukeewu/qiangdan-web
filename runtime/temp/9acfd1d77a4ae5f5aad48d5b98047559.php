@@ -1,0 +1,2 @@
+<?php /*a:1:{s:63:"/www/wwwroot/qiangdan/application/admin/view/users/picinfo.html";i:1615598992;}*/ ?>
+<img src='<?php echo htmlentities($pic); ?>' style="margin:20px auto;display:block;height:460px;" >
