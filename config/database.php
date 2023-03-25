@@ -25,14 +25,13 @@ return [
     // 数据库类型
     'type'        => 'mysql',
     // 服务器地址
-   // 'hostname'    => '103.153.100.240',
-     'hostname'    => '107.148.238.136',
+     'hostname'    => '127.0.0.1',
     // 数据库名
     'database'    => 'qiangdan',
     // 用户名
     'username'    => 'root',
     // 密码
-    'password'    => 'b091a7b2a4078bbc',
+    'password'    => 'xRBDrxJDewN4rHee',
     // 编码
     'charset'     => 'utf8mb4',
     // 端口
